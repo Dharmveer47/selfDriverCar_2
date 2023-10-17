@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+#myCanvas {
+    border-width: 10px;
+    background-color: rgba(62, 238, 171, 0.837);
+}
