@@ -26,12 +26,6 @@ Welcome to the Self-Driving Car project! In this project, we'll develop a self-d
 - Real-time data collection and processing.
 - Easy-to-understand codebase with detailed documentation.
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- [Python](https://www.python.org/) installed (version XYZ)
-- [List other dependencies or prerequisites]
 
 ## Getting Started
 
