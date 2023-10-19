@@ -38,4 +38,4 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
    ```shell
-   git clone https://github.com/your-username/self-driving-car.git
+   git clone [https://github.com/your-username/self-driving-car.git](https://github.com/Dharmveer47/selfDriverCar_2.git)https://github.com/Dharmveer47/selfDriverCar_2.git
