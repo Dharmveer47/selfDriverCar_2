@@ -1,6 +1,6 @@
 # Self-Driving Car Project
 
-![Self-Driving Car](self_driving_car_image.jpg)
+![Self-Driving Car](self_driving_car_image.png)
 
 ## Overview
 
